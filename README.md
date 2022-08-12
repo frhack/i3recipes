@@ -20,16 +20,21 @@ xclip xsel  xvkbd
 
 execute:
 
+```bash
 sudo setxkbmap -option ctrl:nocaps
+```
 
 In /etc/default/keyboard add
 
+```bash
 XKBOPTIONS="ctrl:nocaps"
+```
 
 
 In .xbindkeyssrc add:
 
 
+```bash
 "/home/frank/primary-copy.sh"
   shift + b:1
 "/home/frank/primary-paste.sh"
@@ -40,6 +45,7 @@ In .xbindkeyssrc add:
   Alt + Tab
 "sudo /home/frank/scratchpad-move.sh"
   Mod4 + z
+```
 
 
 
