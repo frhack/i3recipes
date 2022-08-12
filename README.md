@@ -6,7 +6,7 @@ Here are my very simple configurations and minimal scripts to obtain the followi
 ### primary selection register
   After selected some text with shift+left click the primary selection is memorized, afterwards you can paste with shift+middle click
 ### scratchpad hide/unhide
- Press caps-lock to hide/unhide the windows in the scratchpad one after the other. The caps lock led indicate the scratchpad visibility
+ Press caps-lock to hide/unhide the windows in the scratchpad. The caps lock led indicate the scratchpad visibility
 ### scratchpad carousel
   Press alt-tab to show the next window in the scratchpad. 
 ### move to scratchpad
