@@ -14,7 +14,9 @@ Here are my very simple configurations and minimal scripts to obtain the followi
 
 
 ## packages required:
-xclip xsel  xvkbd
+```bash
+sudo apt install xclip xsel  xvkbd
+```
 
 ## install
 
