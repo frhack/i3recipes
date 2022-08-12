@@ -47,5 +47,10 @@ In .xbindkeyssrc add:
   Mod4 + z
 ```
 
+CAPS LOCK led require sudo:
+
+```bash
+echo "frank  ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/frank
+```
 
 
