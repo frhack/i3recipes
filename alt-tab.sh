@@ -10,3 +10,4 @@ if [ "$a" -lt "$b" ]; then
    i3-msg scratchpad show
 fi
 sudo echo 1 > $file
+echo "TAB" > "/home/frank/.wslast"

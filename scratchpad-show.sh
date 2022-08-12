@@ -3,6 +3,7 @@ v=`i3-msg -t get_workspaces  | jq '.[] | select(.focused==true).name'  | cut -d"
 file=`ls /sys/class/leds/input?::capslock/brightness`
 old=`cat /home/frank/.wsold`
 status=`cat /home/frank/.wsstatus`
+echo "ALL" > "/home/frank/.wslast"
 
 
 if [ "$led" -eq "1" ]; then
