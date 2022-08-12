@@ -12,8 +12,8 @@ Here are my very simple configurations and minimal scripts to obtain the followi
 ### Move window to the scratchpad
   Press mod+z to move the focused window to the scratchpad and turn off the capslock light
 ### Show the scratchpad as new workspace
-  Press mod+` to show all the windows in the scratchpad in a new workspace (capslock led turn on). 
-  Press mod+` again to come back to the starting workspace  (capslock led turn off). 
+  Press mod+\` to show all the windows in the scratchpad in a new workspace (capslock led turn on). 
+  Press mod+\` again to come back to the starting workspace  (capslock led turn off). 
 
 
 
